@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Avash's homepage"
+title                    : "Avash's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "avash_profile_photo.jpeg"
   name             : "Avash Palikhe"
   pronouns         : # example: "she/her"  
-  bio              : "He is a Ph.D. student at the Knight Foundation School of Computing and Information Sciences, Florida International University. He holds a Bachelor's degree in Computer Engineering from Tribhuvan University (TU). His current research focuses on detecting and analyzing potential biases in machine learning algorithms, with an emphasis on mitigation strategies to address fairness concerns."
+  bio              : "Engineer/Researcher"
   location         : "Miami, USA"
   employer         : "Florida International University"
   uri              : # URL

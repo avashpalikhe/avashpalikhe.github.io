@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "📱 ConnectIPS"
+excerpt: "A national-level mobile payment app for secure fund transfers, bill payments, and government services.<br/><img src='/images/connectIps_logo.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### 📱 ConnectIPS
+
+A mobile payment app enabling users in Nepal to securely link their bank accounts for:
+
+- 💸 Fund transfers (P2P, C2B, C2G)
+- 🧾 Bill and merchant payments
+- 🔒 Secure login and transaction verification
+
+Built using Android (Java/Kotlin), REST APIs, and MVVM architecture.
+
+📲 [View on Google Play](https://play.google.com/store/apps/details?id=com.infodev.nchl_android&hl=en)
