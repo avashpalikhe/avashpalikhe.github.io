@@ -9,6 +9,9 @@
 
 main:
 
+  - title: "About me"
+    url: /about/
+
   - title: "CV"
     url: /files/avash_palikhe_cv.pdf
 
@@ -21,7 +24,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
   # - title: "Blog Posts"

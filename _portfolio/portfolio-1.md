@@ -1,10 +1,11 @@
 ---
-title: "📱 ConnectIPS"
-excerpt: "A national-level mobile payment app for secure fund transfers, bill payments, and government services.<br/><img src='/images/connectIps_logo.png'>"
+title: "ConnectIPS"
+excerpt: "A national-level mobile payment app for secure fund transfers, bill payments, and government services.<br/>"
+# <img src='/images/connectIps_logo.png'>
 collection: portfolio
 ---
 
-### 📱 ConnectIPS
+### ConnectIPS
 
 A mobile payment app enabling users in Nepal to securely link their bank accounts for:
 
@@ -14,4 +15,4 @@ A mobile payment app enabling users in Nepal to securely link their bank account
 
 Built using Android (Java/Kotlin), REST APIs, and MVVM architecture.
 
-📲 [View on Google Play](https://play.google.com/store/apps/details?id=com.infodev.nchl_android&hl=en)
+[View on Google Play](https://play.google.com/store/apps/details?id=com.infodev.nchl_android&hl=en)
