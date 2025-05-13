@@ -9,7 +9,7 @@ redirect_from:
 
 **About Me**
 
-Hello! I’m Avash Palikhe, a Ph.D. student at the Knight Foundation School of Computing and Information Sciences, Florida International University (FIU), USA. I am a researcher and an engineer passionate about designing innovative, efficient, and responsible AI systems to address complex real-world challenges.
+Hello! I’m Avash Palikhe, a Ph.D. student at the Knight Foundation School of Computing and Information Sciences, Florida International University (FIU), USA. I am a researcher and an engineer passionate about building innovative, efficient, and responsible AI systems to address complex real-world challenges.
 
  Over the years, my academic and professional pursuits have increasingly focused on advancing research at the intersection of artificial intelligence, algorithmic fairness, and model interpretability.
 
