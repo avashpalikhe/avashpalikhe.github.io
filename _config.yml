@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "light"
 title                    : ""
-title_separator          : "-"
+title_separator          : "Avash Palikhe"
 name                     : &name "Avash Palikhe"
 description              : &description "personal description"
 url                      : https://avashpalikhe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -284,6 +284,13 @@ defaults:
       author_profile: true
       share: true
 
+# Seo
+seo:
+  name: "Avash Palikhe"
+  twitter: 
+    username: "avashpalikhe"
+  social:
+    linkedin: "avashpalikhe"
 
 # Sass/SCSS
 sass:
@@ -304,6 +311,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-redirect-from
   - jemoji
 
