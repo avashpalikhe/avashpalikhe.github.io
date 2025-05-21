@@ -10,8 +10,8 @@ venue: 'PLOS digital health'
 # paperurl: 'https://arxiv.org/abs/2407.19655v2'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: ''
-paperurl: 'https://arxiv.org/abs/2407.19655v2'
-url: https://arxiv.org/abs/2407.19655v2
+paperurl: 'https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000864'
+url: https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000864 
 ---
 Sribala Vidyadhari Chinta, Zichong Wang, Avash Palikhe, Xingyu Zhang, Ayesha Kashif, Monique Antoinette Smith, Jun Liu and Wenbin Zhang
 
