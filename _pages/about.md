@@ -15,7 +15,7 @@ Hello! I’m Avash Palikhe, a Ph.D. student at the Knight Foundation School of C
 
 **Research Interest**
 
-My current research centers on algorithmic fairness, explainable AI, and ethical AI Specifically, my work aims to better understand and mitigate biases in AI systems and contribute to the development of transparent and ethically aligned models. I strongly believe that the advancement of AI should go hand-in-hand with responsibility, accountability, and social awareness.
+My current research centers on algorithmic fairness, explainable AI, and ethical AI. Specifically, my work aims to better understand and mitigate biases in AI systems and contribute to the development of transparent and ethically aligned models. I strongly believe that the advancement of AI should go hand-in-hand with responsibility, accountability, and social awareness.
 
 Beyond academia, I enjoy exploring innovative ideas, contributing to impactful AI projects, and engaging with communities that promote ethical and responsible technology development.
 
