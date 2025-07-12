@@ -5,7 +5,7 @@ category: manuscripts
 # permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-6-29
-venue: 'arXiv preprint arXiv:2506.23411'
+# venue: 'arXiv preprint arXiv:2506.23411'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://arxiv.org/abs/2407.19655v2'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
